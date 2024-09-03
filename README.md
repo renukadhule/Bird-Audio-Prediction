@@ -1,1 +1,1 @@
-This a Based on Machine Learning Algorithms and Python 
+It is Based on Machine Learning Algorithms and Python 
